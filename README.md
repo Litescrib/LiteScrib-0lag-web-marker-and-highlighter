@@ -1,2 +1,5 @@
 # LiteScrib-0lag-web-marker-and-highlighter
 lightweight, zero-lag pen, real-ink highlighter, and dynamic eraser overlay for any webpage.
+here we are for helping each other , so, I Built this out of frustration. As a student spending hours every day dissecting dense articles, long-form essays, and editorials on the web, I hated reading passively on a screen. On paper, you think with your pen—you underline key arguments, circle transition words, and bracket paragraphs. When I looked for browser extensions to replicate that, everything I found was bloated. They either forced me to create an account, locked basic highlighters behind a subscription, or lagged so badly that my laptop's fan would spin up after three strokes. Worse, most highlighters acted like digital paint, turning opaque after two passes and completely blocking the black text underneath.
+
+So I built "LiteScrib". It is a raw, ultra-lightweight drawing layer that sits directly over any webpage. No accounts, no tracking, no background memory drain, and zero lag—even on low-end hardware with integrated graphics.
